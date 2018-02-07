@@ -1,5 +1,9 @@
 # Freifunk Magdeburg Wiki
 
+*This project is no longer active and has **known security
+vulnerabilities**. The Freifunk Magdeburg project uses another wiki
+now.*
+
 ## Installation
 
     $ useradd -d /var/lib/gollum -U -r -s /bin/bash gollum
